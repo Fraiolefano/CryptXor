@@ -1,3 +1,3 @@
 # CryptXor by Fraiolefano
 
-https://fraiolefano.altervista.org/pages/coding/programs/cryptXor/index.php
+Web version: https://fraiolefano.altervista.org/pages/coding/programs/cryptXor/index.php
